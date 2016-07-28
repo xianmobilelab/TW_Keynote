@@ -1,7 +1,7 @@
 # TW_Keynote
 
-This repository is help us to setup our keynote envernment quickly.
-It includes those features.
+This repository is help us to setup our keynote environment quickly.
+It includes these features.
 
 - Color palettes
 
