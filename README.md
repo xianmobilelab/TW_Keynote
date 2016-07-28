@@ -15,6 +15,6 @@ chmod x+u color_palettes
 
 After that you will found this color palettes in your keynote.
 
-![Keynote Color Palettes](/Color_Palettes/TW_color_palettes)
+![Keynote Color Palettes](/Color_Palettes/TW_color_palettes.png)
 
 
