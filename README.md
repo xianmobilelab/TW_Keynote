@@ -20,6 +20,7 @@ chmod u+x ./setup_script
 After that you will found this color palettes in your keynote.
 
 ![Keynote Color Palettes](/Color_Palettes/TW_color_palettes.png)
+![Morandi Color Palettes](/Color_Palettes/Morandi_color_palettes.png)
 
 ## Color Tint tool
 
