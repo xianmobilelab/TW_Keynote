@@ -41,5 +41,7 @@ Links
 
 - General
 - Christmas
-
+- Diagram Icons
+- People Avatars
+- Collections(by Myself)
 
