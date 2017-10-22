@@ -33,6 +33,10 @@ Links
 - open-sans
 - yahei
 
+```
+python install_font_on_mac.py
+```
+
 ## ThoughtWorks Logo resource
 
 ![Keynote Logo Example](/Resource/Logo/TW\ Colour\ Logos_trans_ocean.png)
