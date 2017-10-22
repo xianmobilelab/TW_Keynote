@@ -38,7 +38,7 @@ Links
 
 ## ThoughtWorks Logo resource
 
-![Keynote Logo Example](/Resource/Logo/TW\ Colour\ Logos_trans_ocean.png)
+![Keynote Logo Example](/Resource/Logo/TW%20Colour%20Logos_trans_ocean.png)
 
 ## ThoughtWorks glyph icons
 
