@@ -1,6 +1,6 @@
 # TW_Keynote
 
-This repository is help us to setup our keynote environment quickly.
+This repository will help you to setup your keynote environment quickly.
 It includes these features.
 
 - Color palettes
@@ -9,15 +9,18 @@ It includes these features.
 - ThoughtWorks Logo resource
 - ThoughtWorks glyph icons
 
-## Color Palettes
-I had imported all of our ThoughtWorks official color. You can use this commands to import this color palettes to your keynote.
+## Setup
+
+You can follow these commands below to setup your computer env easily, these command will install color palettes and fonts automatically
 
 ```
 chmod u+x ./setup_script
 ./setup_script
 ```
 
-After that you will found this color palettes in your keynote.
+## Color Palettes
+
+You could find these color palettes in your keynote. It include ThoughtWorks official color palettes and so on.
 
 ![Keynote Color Palettes](/Color_Palettes/TW_color_palettes.png)
 ![Morandi Color Palettes](/Color_Palettes/Morandi_color_palettes.png)
@@ -33,10 +36,6 @@ Links
 - open-sans
 - yahei
 
-```
-python install_font_on_mac.py
-```
-
 ## ThoughtWorks Logo resource
 
 ![Keynote Logo Example](/Resource/Logo/TW\ Colour\ Logos_trans_ocean.png)
@@ -49,3 +48,4 @@ python install_font_on_mac.py
 - People Avatars
 - Collections(by Myself)
 
+**Enjoy**
