@@ -14,9 +14,9 @@ def findFilesRecurse(path, ls = None):
     return ls
 
 # main
-for f in findFilesRecurse(os.getcwd() + '/Font'):
-    cmd = 'cp {0} /Library/Fonts'.format(f)
-    print(cmd)
-    os.system(cmd)
-    
+for f in findFilesRecurse(os.getcwd() + "/Font/"):
+   if f.find("ttf") != -1: 
+	cmd = 'cp {0} /Library/Fonts'.format(f)
+	print(cmd)
+	os.system(cmd)
 print('Done')
