@@ -48,4 +48,8 @@ Links
 - People Avatars
 - Collections(by Myself)
 
+## ThoughtWorks shapes
+
+Basic shapes that we used a lot. To add to your own shape repo, open file `shapes.key` and follow the instructions there.
+
 **Enjoy**
