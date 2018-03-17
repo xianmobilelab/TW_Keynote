@@ -1,8 +1,8 @@
 #!/bin/bash
 
-chmod u+x ./Color_Palettes/color_palettes_scripte
+chmod u+x ./Color_Palettes/color_palettes_script
 echo "Run import color palettes script"
-source ./Color_Palettes/color_palettes_scripte
+source ./Color_Palettes/color_palettes_script
 
 echo "Import color palettes completed"
 
