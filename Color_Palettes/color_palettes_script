@@ -3,3 +3,4 @@
 cp -r ./Color_Palettes/ThoughtWorks.clr ~/Library/Colors
 cp -r ./Color_Palettes/Morandi.clr ~/Library/Colors
 cp -r ./Color_Palettes/Popular\ 2017.clr ~/Library/Colors
+cp -r ./Color_Palettes/Material.clr ~/Library/Colors
