@@ -25,6 +25,9 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 ![Keynote Color Palettes](/Color_Palettes/TW_color_palettes.png)
 ![Morandi Color Palettes](/Color_Palettes/Morandi_color_palettes.png)
 
+### Other palettes resources (thanks Xiaochun Zhang)
+[Flat UI Colors 2](https://flatuicolors.com/)
+
 ## Color Tint tool
 
 Links
