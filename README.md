@@ -27,6 +27,7 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 
 ### Other palettes resources (thanks Xiaochun Zhang)
 [Flat UI Colors 2](https://flatuicolors.com/)
+[Zeplin Color Names](https://github.com/zeplin/zeplin-palette)
 
 ## Color Tint tool
 
