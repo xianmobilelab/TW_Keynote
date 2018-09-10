@@ -26,12 +26,11 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 ![Morandi Color Palettes](/Color_Palettes/Morandi_color_palettes.png)
 
 ### Other palettes resources (thanks Xiaochun Zhang)
-[Flat UI Colors 2](https://flatuicolors.com/)
-[Zeplin Color Names](https://github.com/zeplin/zeplin-palette)
+
+- [Flat UI Colors 2](https://flatuicolors.com/)
+- [Zeplin Color Names](https://github.com/zeplin/zeplin-palette)
 
 ## Color Tint tool
-
-Links
 
 [Color Tint Tool](https://thoughtworks.jiveon.com/groups/image-tinter)
 
@@ -46,11 +45,20 @@ Links
 
 ## ThoughtWorks glyph icons
 
-- General
+- Glyph Icons(general)
 - Christmas
+- Collections(by Myself)
+- Collections bg(by Myself)
 - Diagram Icons
 - People Avatars
-- Collections(by Myself)
+- Flags
+- Foods
+- Kitchen
+- National Animals
+- People Avatars
+- Plants
+- Process
+- Vehicles
 
 ## ThoughtWorks shapes
 
