@@ -7,7 +7,8 @@ It includes these features.
 - Color Tint tool
 - Font resource
 - ThoughtWorks Logo resource
-- ThoughtWorks glyph icons
+- Keynote images&icons
+- ThoughtWorks shapes
 
 ## Setup
 
@@ -29,6 +30,7 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 
 - [Flat UI Colors 2](https://flatuicolors.com/)
 - [Zeplin Color Names](https://github.com/zeplin/zeplin-palette)
+- [RemixIcon Slides](https://github.com/Remix-Design/RemixIcon-Slides)
 
 ## Color Tint tool
 
@@ -43,7 +45,7 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 
 ![Keynote Logo Example](/Resource/Logo/TW%20Colour%20Logos_trans_ocean.png)
 
-## ThoughtWorks glyph icons
+## Keynote images&icons
 
 - Glyph Icons(general)
 - Christmas
