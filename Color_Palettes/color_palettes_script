@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+mkdir -p ~/Library/Colors
+
 cp -r ./Color_Palettes/ThoughtWorks.clr ~/Library/Colors
 cp -r ./Color_Palettes/Morandi.clr ~/Library/Colors
 cp -r ./Color_Palettes/Popular\ 2017.clr ~/Library/Colors
