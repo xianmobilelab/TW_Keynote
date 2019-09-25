@@ -57,9 +57,11 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 - Foods
 - Kitchen
 - National Animals
+- Numbers
 - People Avatars
 - Plants
 - Process
+- Sports
 - Vehicles
 
 ## ThoughtWorks shapes
