@@ -38,12 +38,15 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 
 ## Font resource
 
+- noto
+- bitter
+- inter
 - open-sans
 - yahei
 
 ## ThoughtWorks Logo resource
 
-![Keynote Logo Example](/Resource/Logo/TW%20Colour%20Logos_trans_ocean.png)
+![Keynote Logo Example](/Resource/Logo/thoughtworks_flamingo_wave.png)
 
 ## Keynote images&icons
 
