@@ -3,10 +3,10 @@
 This repository will help you to setup your keynote environment quickly.
 It includes these features.
 
-- Color palettes
+- Color palettes(2021 vi update)
 - Color Tint tool
-- Font resource
-- ThoughtWorks Logo resource
+- Font resource(2021 vi update)
+- ThoughtWorks Logo resource(2021 vi update)
 - Keynote images&icons
 - ThoughtWorks shapes
 
@@ -38,9 +38,9 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 
 ## Font resource
 
-- noto
-- bitter
-- inter
+- noto(中文)
+- bitter(英文标题)
+- inter(英文正文)
 - open-sans
 - yahei
 
