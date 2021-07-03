@@ -6,9 +6,9 @@ It includes these features.
 - Color palettes(2021 vi update)
 - Color Tint tool
 - Font resource(2021 vi update)
-- ThoughtWorks Logo resource(2021 vi update)
+- Thoughtworks Logo resource(2021 vi update)
 - Keynote images&icons
-- ThoughtWorks shapes
+- Thoughtworks shapes
 
 ## Setup
 
@@ -21,7 +21,7 @@ chmod u+x ./setup_script
 
 ## Color Palettes
 
-You could find these color palettes in your keynote. It include ThoughtWorks official color palettes and so on.
+You could find these color palettes in your keynote. It include Thoughtworks official color palettes and so on.
 
 ![Keynote Color Palettes](/Color_Palettes/TW_color_palettes.png)
 ![Morandi Color Palettes](/Color_Palettes/Morandi_color_palettes.png)
@@ -44,7 +44,7 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 - open-sans
 - yahei
 
-## ThoughtWorks Logo resource
+## Thoughtworks Logo resource
 
 ![Keynote Logo Example](/Resource/Logo/thoughtworks_flamingo_wave.png)
 
@@ -67,7 +67,7 @@ You could find these color palettes in your keynote. It include ThoughtWorks off
 - Sports
 - Vehicles
 
-## ThoughtWorks shapes
+## Thoughtworks shapes
 
 Basic shapes that we used a lot. To add to your own shape repo, open file `shapes.key` and follow the instructions there.
 
